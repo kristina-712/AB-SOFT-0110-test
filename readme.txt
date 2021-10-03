@@ -6,4 +6,4 @@ QA Job
 
 Kritina Kolomiiets
 
-new line
+changed new line
