@@ -1,0 +1,21 @@
+[core]
+	resitoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	
+[user]
+	name = kris.job07
+	email = kris.job07@gmail.com
+[alias]
+	student =!echo \"Hello student"
+
+[remote "origin"]
+	url = https://github.com/kristina-712/AB-SOFT-0110-test.git
+	fetch = +refs/heads/*:refs/remote/origin
+[branch lesson_branch]
+	remote = origin
+	merge = refs/heads/lesson_branch
+	
